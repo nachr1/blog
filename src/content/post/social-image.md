@@ -16,6 +16,8 @@ If you open this markdown file `src/content/post/social-image.md` you'll see the
 ## 永劫无间
 永劫无间英雄：顾清寒、哈迪、无尘。
 
+![](./cover-image/cover.png)
+
 ```yaml
 ogImage: "/social-card.png"
 ```
