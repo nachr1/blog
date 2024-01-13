@@ -18,6 +18,8 @@ If you open this markdown file `src/content/post/social-image.md` you'll see the
 
 ![](./cover-image/cover.png)
 
+ogImage: "/social-card.png"
+
 ```yaml
 ogImage: "/social-card.png"
 ```
